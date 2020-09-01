@@ -1,6 +1,14 @@
 # Tìm hiểu về Backpack
 
-## Các package sử dụng:
+
+## Demo
+
+<a href="https://imgur.com/KV6znvl"><img src="https://i.imgur.com/KV6znvl.png?2" title="source: imgur.com" /></a>
+
+## Cài đặt cơ bản
+<a href="https://imgur.com/e7DDTvC"><img src="https://i.imgur.com/e7DDTvC.png?1" title="source: imgur.com" /></a>
+
+## Các package tiện ích bổ sung:
 -[Backpack\Permission Manager](https://github.com/Laravel-Backpack/PermissionManager): Quản lý CRUD users, roles, permissions.
 
 -[Backpack\NewsCRUD](https://github.com/Laravel-Backpack/NewsCRUD): Quản lý CRUD bài articles, categories, tags.
@@ -10,15 +18,6 @@
 -[Backpack\LogManager](https://github.com/Laravel-Backpack/LogManager):.
 
 -[Intervention\Image](https://github.com/Intervention/image):.
-
-
-## Demo
-
-<a href="https://imgur.com/KV6znvl"><img src="https://i.imgur.com/KV6znvl.png?2" title="source: imgur.com" /></a>
-
-## Cài đặt cơ bản
-<a href="https://imgur.com/e7DDTvC"><img src="https://i.imgur.com/e7DDTvC.png?1" title="source: imgur.com" /></a>
-
 ### Premium Partners
 
 - **[Vehikl](https://vehikl.com/)**
