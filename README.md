@@ -19,8 +19,6 @@
 ## Cài đặt cơ bản
 <a href="https://imgur.com/e7DDTvC"><img src="https://i.imgur.com/e7DDTvC.png?1" title="source: imgur.com" /></a>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
 ### Premium Partners
 
 - **[Vehikl](https://vehikl.com/)**
