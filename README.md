@@ -20,6 +20,13 @@
 
 ## Demo
 
+- Trang danh sách người dung:
+<a href="https://imgur.com/bae6Ng8"><img src="https://i.imgur.com/bae6Ng8.png?1" title="source: imgur.com" /></a>
+
+- Trang tạo mới người dùng:
+<a href="https://imgur.com/ZiF6eft"><img src="https://i.imgur.com/ZiF6eft.png?1" title="source: imgur.com" /></a>
+
+- Trang danh sách bài viết
 <a href="https://imgur.com/KV6znvl"><img src="https://i.imgur.com/KV6znvl.png?2" title="source: imgur.com" /></a>
 
 ## Cài đặt cơ bản
