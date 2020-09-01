@@ -1,5 +1,22 @@
-# Tìm hiểu về Backpack
+# Bài tập Trainee Colombo 2020
 
+## *Tìm hiểu về Backpack for Laravel*
+- Tìm hiểu các chức năng cơ bản của backpack.
+
+- Cài đặt Add-ons Permission.
+
+- Thực hiện phân quyền đối với trang blog.
+
+- Gen ảnh theo các kich thước.
+
+-Thực hiện bởi [Đặng Tuấn Anh](https://github.com/DangHuuTuanAnh).
+
+## Liên kết
+
+-Link tài liệu tham khảo:
+  - https://backpackforlaravel.com/docs.
+  - http://www.expertphp.in/article/laravel-summernote-editor-to-get-upload-file-image-url-instead-of-base64-intervention-image.
+  - https://appdividend.com/2018/04/13/laravel-image-intervention-tutorial-with-example/.
 
 ## Demo
 
@@ -8,7 +25,7 @@
 ## Cài đặt cơ bản
 <a href="https://imgur.com/e7DDTvC"><img src="https://i.imgur.com/e7DDTvC.png?1" title="source: imgur.com" /></a>
 
-## Các package tiện ích bổ sung:
+## Các package sử dụng:
 -[Backpack\Permission Manager](https://github.com/Laravel-Backpack/PermissionManager): Quản lý CRUD users, roles, permissions.
 
 -[Backpack\NewsCRUD](https://github.com/Laravel-Backpack/NewsCRUD): Quản lý CRUD bài articles, categories, tags.
@@ -18,30 +35,19 @@
 -[Backpack\LogManager](https://github.com/Laravel-Backpack/LogManager):.
 
 -[Intervention\Image](https://github.com/Intervention/image):.
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+## Kiến thức nắm được
+ -Nắm được cách cài đặt và sử dụng các package của backpack.
+ 
+ -Xử lý ảnh trong nội dung bài viết và thumbnail bài viết.
+ 
+ -Thực hiện phân quyền theo package của backpack.
 
-## Contributing
+## Todo
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## Credit
 
 ## License
 
